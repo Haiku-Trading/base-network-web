@@ -159,7 +159,7 @@ __metadata:
     autoprefixer: ^10.4.13
     base-ui: 0.1.1
     classnames: ^2.5.1
-    cloudinary: ^2.5.1
+    cloudinary: ^2.7.0
     cross-env: ^7.0.3
     csv-parser: ^3.0.0
     date-fns: ^4.1.0
@@ -11379,13 +11379,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cloudinary@npm:^2.5.1":
-  version: 2.5.1
-  resolution: "cloudinary@npm:2.5.1"
+"cloudinary@npm:^2.7.0":
+  version: 2.8.0
+  resolution: "cloudinary@npm:2.8.0"
   dependencies:
     lodash: ^4.17.21
     q: ^1.5.1
-  checksum: 4e4a09fe37677fce1051371b8906bf3a28f31017b867701e7c51977b6bcd0185603f0ca2e47052730e5691b5d0d40abd7f7d7774c046784b1ba55b390b687493
+  checksum: f79ab4393f422a34746be65a45d88bf1fc7e2d98932b24e30fefdb1659758dd80ac6d13170a7406b7c9f16fa470f266b0dd6bf061a2ea12b0235a211ab4ed8bb
   languageName: node
   linkType: hard
 
